@@ -92,6 +92,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Robobox](https://www.robobox.io)
 * [Sphero](http://www.sphero.com)
 * [Hummingbird Kit](https://www.hummingbirdkit.com)
+* [Cozmo] (https://www.anki.com/en-us/cozmo)
 
 ### Apps
 
